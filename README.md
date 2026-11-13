@@ -51,7 +51,7 @@ cybersecurity-toolkit/
 First, clone this repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/cybersecurity-toolkit.git
+git clone https://github.com/sorifbiswas/cybersecurity-toolkit.git
 ```
 
 Go to the project directory:
